@@ -25,6 +25,7 @@ img {
 }
 
 .text-container {
+    flex-direction: column;
     text-align: center;
     width: 184px;
     font-family: 'Outfit', sans-serif;
@@ -33,6 +34,7 @@ img {
 .text1 {
     font-weight: 700;
     font-size: 15px;  
+    margin-bottom: 0px;
 }
 .text2, .attribution {
     font-weight: 400;
